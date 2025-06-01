@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi, I'm Jay Parmar
+A Passionate Full Stack Developer | MERN Stack | Always Learning & Building
+# 👨‍💻 About Me:
+-> I’m a Full Stack Web Developer with a focus on React.js, Node.js and Mongodb.
+-> Currently working as a Full Stack Intern, building real-world web applications.
+-> Love working on end-to-end web projects — from designing responsive UIs to creating robust backends.
+-> Constantly learning new tools, solving LeetCode problems, and contributing to GitHub.
+-> Inspired by Rohit Sharma’s mindset: Never give up, stay calm, and keep improving.
+
+💫 About Me:
+🔭 I’m a Full Stack Web Developer with a focus on React.js, Node.js and Mongodb.  👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
