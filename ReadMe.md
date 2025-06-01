@@ -1,5 +1,7 @@
-Hi, I'm Jay Parmar
+Hi, I'm Yuvraj
+
 A Passionate Full Stack Developer | MERN Stack | Always Learning & Building
+
 # 👨‍💻 About Me:
 -> I’m a Full Stack Web Developer with a focus on React.js, Node.js and Mongodb.
 -> Currently working as a Full Stack Intern, building real-world web applications.
