@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🚀 Hi, I'm YuvrajSinh Raj
+# 🚀 Hi, I'm Yuvrajsinh Raj
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+%26+Building;Problem+Solver;Dream+Builder" alt="Typing SVG" />
 <br/>
